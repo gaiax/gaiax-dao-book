@@ -1,0 +1,12 @@
+PREDEF:
+
+CHAPS:
+  #  - bc_election.re
+  - components/chapter1_1.re
+  - components/chapter1_2.re
+  # - components/chapter1_3.re
+  # - components/chapter1_4.re
+
+APPENDIX:
+
+POSTDEF:
