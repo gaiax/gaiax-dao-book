@@ -16,7 +16,7 @@ review_version: 5.0
 # inherit: ["A.yml", "B.yml"]
 
 # ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
-bookname: book
+bookname: BCS_Election
 # 記述言語。省略した場合はja
 language: ja
 
@@ -32,7 +32,7 @@ booktitle:
 # 著者名。「, 」で区切って複数指定できる
 # 読みを入れる例 aut: [{name: "青木峰郎", file-as: "アオキミネロウ"}, {name: "武藤健志", file-as: "ムトウケンシ"}, {name: "高橋征義", file-as: "タカハシマサヨシ"}, {name: "角征典", file-as: "カドマサノリ"}]
 # aut: ["青木峰郎", "武藤健志", "高橋征義", "角征典"]
-aut: ["takayasu", "Watanabe", "yama", "uwai"]
+# aut: ["takayasu", "Watanabe", "yama", "uwai"]
 
 # 以下はオプション
 # 以下はオプション(autと同じように配列書式で複数指定可能)。
@@ -73,12 +73,12 @@ aut: ["takayasu", "Watanabe", "yama", "uwai"]
 # contact: 連絡先
 
 # 刊行日(省略した場合は実行時の日付)
-date: 2024-02-06
+date: 2024-04-25
 # 発行年月。YYYY-MM-DD形式による配列指定。省略した場合はdateを使用する
 # 複数指定する場合は次のように記述する
 # [["初版第1刷の日付", "初版第2刷の日付"], ["第2版第1刷の日付"]]
 # 日付の後ろを空白文字で区切り、任意の文字列を置くことも可能。
-history: [["2024-02-06"]]
+history: [["2024-04-25"]]
 # 権利表記(配列で複数指定可)
 # rights: (C) 2016-2020 Re:VIEW Developers
 # description: 説明
@@ -108,13 +108,13 @@ debug: null
 stylesheet: ["style.css"]
 
 # ePUBのバージョン (2か3)
-# epubversion: 3
+epubversion: 3
 #
 # HTMLのバージョン (4か5。epubversionを3にしたときには5にする)
-# htmlversion: 5
+htmlversion: 5
 
 # 目次として抽出する見出しレベル
-toclevel: 3
+toclevel: 2
 
 # 採番の設定。採番させたくない見出しには「==[nonum]」のようにnonum指定をする
 #
@@ -123,21 +123,21 @@ secnolevel: 2
 
 # 本文中に目次ページを作成するか。省略した場合はnull (作成しない)
 #toc: true
-toc: false
+toc: true
 
 # EPUB2標準の目次(NCX)以外に物理目次ファイルを作成するか。省略した場合はnull (作成しない)
 # ePUB3においてはこの設定によらず必ず作成される
 # mytoc: true
 
 # 表紙にするファイル。ファイル名を指定すると表紙として入る (PDFMaker向けにはLaTeXソース断片、EPUBMaker向けにはHTMLファイル)
-# cover: null
+# cover: cover.jpg
 #
 # 表紙に配置し、書籍の影絵にも利用する画像ファイル。省略した場合はnull (画像を使わない)。画像ディレクトリ内に置いてもディレクトリ名は不要(例: cover.jpg)
 # PDFMaker 固有の表紙設定は pdfmaker セクション内で上書き可能
-coverimage: cover.jpg
+coverimage: cover.png
 #
 # 表紙の後に大扉ページを作成するか。省略した場合はtrue (作成する)
-# titlepage: true
+titlepage: false
 #
 # 自動生成される大扉ページを上書きするファイル。ファイル名を指定すると大扉として入る (PDFMaker向けにはLaTeXソース断片、EPUBMaker向けにはHTMLファイル)
 # titlefile: null
@@ -183,7 +183,7 @@ coverimage: cover.jpg
 #   latex: "listings"
 
 # カタログファイル名を指定する
-catalogfile: catalog_ch1.yml
+catalogfile: catalog.yml
 
 # reファイルを格納するディレクトリ。省略した場合は以下 (. はカレントディレクトリを示す)
 # contentdir: .
@@ -237,9 +237,9 @@ catalogfile: catalog_ch1.yml
 # プリアンブルの内容を上書きするファイルを指定する（デフォルトはupLaTeX+jsarticle.clsを前提とした、lib/review/makerhelper.rbのdefault_imgmath_preambleメソッドの内容）
 # preamble_file: null
 # 基準のフォントサイズ
-# fontsize: 10
+fontsize: 14
 # 基準の行間
-# lineheight: 12
+lineheight: 24
 # converterにpdfcropを指定したときのpdfcropコマンドのコマンドライン。プレースホルダは
 # %i: 入力ファイル、%o: 出力ファイル
 # pdfcrop_cmd: "pdfcrop --hires %i %o"
@@ -352,7 +352,7 @@ epubmaker:
   # zip_addpath: null
   #
   # EPUBで表紙をコンテンツに含めるか。デフォルトでは作成されない。yesにするとiBooks等でも最初に表紙が表示されるようになる
-  # cover_linear: null
+  cover_linear: yes
   #
   # @<href>タグでの外部リンクを禁止し、地の文にする(falseで禁止する)
   # externallink: true

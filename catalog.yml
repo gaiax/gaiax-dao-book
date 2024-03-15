@@ -1,8 +1,7 @@
 PREDEF:
 
 CHAPS:
-  - components/chapter1_1.re
-#  - bc_election.re
+  - chapters/chapter1.re
 
 APPENDIX:
 
