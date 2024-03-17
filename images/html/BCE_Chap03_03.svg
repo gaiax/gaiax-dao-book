@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 277.41 194.02">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-6 {
+        font-size: 12.34px;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: NotoSansJP-Bold-83pv-RKSJ-H, 'Noto Sans JP';
+        font-weight: 700;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-9 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.13em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.18em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-18 {
+        letter-spacing: 0em;
+      }
+
+      .cls-19 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-20 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-23 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-24 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-25 {
+        fill: none;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-26 {
+        letter-spacing: -.15em;
+      }
+
+      .cls-27 {
+        letter-spacing: -.12em;
+      }
+
+      .cls-28 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-29 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-30 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        font-size: 9.26px;
+      }
+
+      .cls-7, .cls-31 {
+        fill: #231815;
+      }
+
+      .cls-32 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-33 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-34 {
+        fill: #f7c263;
+      }
+
+      .cls-34, .cls-35, .cls-36, .cls-31, .cls-37, .cls-8, .cls-38 {
+        stroke-width: 0px;
+      }
+
+      .cls-35 {
+        fill: #3c84c1;
+      }
+
+      .cls-36 {
+        fill: #1b82bd;
+      }
+
+      .cls-37 {
+        fill: #241412;
+      }
+
+      .cls-38 {
+        fill: #efefef;
+      }
+    </style>
+  </defs>
+  <g id="Working">
+    <circle class="cls-38" cx="119.68" cy="63.05" r="49.99"/>
+    <path class="cls-8" d="m101.73,56.13c0,2.21,1.79,4,4,4h27.43c2.21,0,4-1.79,4-4v-3.81h-35.44s0,3.81,0,3.81Z"/>
+    <path class="cls-8" d="m137.17,4.67c0-2.21-1.79-4-4-4h0s-27.43,0-27.43,0c-2.21,0-4,1.79-4,4h0v3.81h35.44v-3.81Z"/>
+    <path class="cls-35" d="m135.27,8.47c-10.22,0-23.61,0-33.39.01h-.15v43.86h.14c10.41,0,24.89,0,35.29-.01V8.46h-1.9Z"/>
+    <path class="cls-37" d="m137.17,7.81h-9.56s-8.73,0-8.73,0h-8.98s-7.45,0-7.45,0h-.73c-.84,0-.84,1.31,0,1.31,2.37,0,4.75,0,7.12,0h8.88s8.86,0,8.86,0h7.04c1.15,0,2.3.03,3.45,0h.09c.84,0,.84-1.31,0-1.31h0Z"/>
+    <path class="cls-37" d="m101.73,52.99c4.49,0,8.98-.01,13.47,0h14.5s7.46,0,7.46,0c.84,0,.84-1.31,0-1.31h-13.68s-14.48,0-14.48,0c-2.43,0-4.85,0-7.28,0-.84,0-.84,1.31,0,1.31h0Z"/>
+    <path class="cls-37" d="m133.16,59.48h-26.72c-.23,0-.45,0-.68,0-1.85.02-3.36-1.47-3.38-3.32,0-.02,0-.04,0-.06V5.27c0-.74.01-1.45.37-2.13.58-1.11,1.73-1.81,2.98-1.82.16,0,.31,0,.47,0h24.87c.69,0,1.37,0,2.06,0,1.87,0,3.37,1.52,3.38,3.38.01,1.39,0,2.78,0,4.17v42.73c0,1.48,0,2.97,0,4.45.02,1.87-1.48,3.4-3.35,3.42-.84,0-.84,1.32,0,1.31,2.57-.03,4.65-2.12,4.66-4.7,0-.44,0-.88,0-1.32V5.84c0-.39,0-.78,0-1.16-.03-2.57-2.1-4.64-4.67-4.67-2.16-.02-4.32,0-6.48,0h-20.52c-.2,0-.41,0-.61,0-1.52.07-2.91.87-3.74,2.15-.59.91-.73,1.94-.73,2.99v50.62c0,1.35.36,2.62,1.33,3.61.88.89,2.09,1.39,3.34,1.4.2,0,.41,0,.62,0h26.8c.84,0,.84-1.31,0-1.31Z"/>
+    <path class="cls-8" d="m131.2,16.2h-23.51v28.4h23.51v-28.4Z"/>
+    <path class="cls-37" d="m131.2,15.55h-23.51c-.36,0-.65.3-.65.65v28.4c0,.36.3.65.65.65h23.51c.36,0,.65-.3.65-.65v-24.92c0-1.14.04-2.29,0-3.43v-.05c0-.84-1.31-.84-1.31,0v27.2c0,.38-.03.77,0,1.14v.06l.65-.65h-23.51l.65.65v-28.4l-.65.65h23.51c.84,0,.84-1.31,0-1.31Z"/>
+    <path class="cls-37" d="m110.8,26.44h10.13c.84,0,.84-1.31,0-1.31h-10.13c-.84,0-.84,1.31,0,1.31Z"/>
+    <path class="cls-34" d="m111.13,29.27h-.33v3.78h17.3v-3.78h-16.97Z"/>
+    <path class="cls-37" d="m122.32,29.27v11.33h1.31v-.29c0-.84-1.31-.84-1.31,0v.29c0,.84,1.31.84,1.31,0v-11.33c0-.84-1.31-.84-1.31,0Z"/>
+    <path class="cls-37" d="m110.9,33.7h17.2c.84,0,.84-1.31,0-1.31h-17.2c-.84,0-.84,1.31,0,1.31Z"/>
+    <path class="cls-37" d="m110.96,37.48h17.14c.84,0,.84-1.31,0-1.31h-17.14c-.84,0-.84,1.31,0,1.31Z"/>
+    <path class="cls-37" d="m128.75,40.6v-11.33c0-.84-1.31-.84-1.31,0,0,3.78,0,7.55,0,11.33,0,.84,1.31.84,1.31,0Z"/>
+    <path class="cls-37" d="m110.8,41.26h17.3c.84,0,.84-1.31,0-1.31h-17.3c-.84,0-.84,1.31,0,1.31Z"/>
+    <path class="cls-37" d="m110.14,29.27v11.33c0,.84,1.31.84,1.31,0v-11.33c0-.84-1.31-.84-1.31,0Z"/>
+    <path class="cls-37" d="m128.1,28.62h-17.3c-.84,0-.84,1.31,0,1.31h17.3c.84,0,.84-1.31,0-1.31Z"/>
+    <path class="cls-37" d="m122.16,20.93h5.66c.84,0,.84-1.31,0-1.31h-5.66c-.84,0-.84,1.31,0,1.31Z"/>
+    <ellipse class="cls-38" cx="116.73" cy="167.15" rx="48.95" ry="26.87"/>
+    <text class="cls-7" transform="translate(87.98 164.67)"><tspan class="cls-4" x="0" y="0">T</tspan><tspan x="5.02" y="0">ornadoCash</tspan><tspan class="cls-14" x="-12.12" y="11.11">ス</tspan><tspan class="cls-5" x="-3.75" y="11.11">マ</tspan><tspan class="cls-27" x="5.14" y="11.11">ー</tspan><tspan class="cls-9" x="13.24" y="11.11">ト</tspan><tspan class="cls-5" x="21.75" y="11.11">コ</tspan><tspan class="cls-26" x="30.64" y="11.11">ン</tspan><tspan class="cls-19" x="38.52" y="11.11">ト</tspan><tspan class="cls-17" x="46.72" y="11.11">ラ</tspan><tspan class="cls-15" x="55.46" y="11.11">ク</tspan><tspan class="cls-13" x="63.03" y="11.11">ト</tspan></text>
+    <ellipse class="cls-36" cx="71.76" cy="76.79" rx="40.81" ry="13.74"/>
+    <ellipse class="cls-36" cx="164.76" cy="76.22" rx="40.81" ry="13.74"/>
+    <text class="cls-6" transform="translate(37.95 80.67)"><tspan x="0" y="0">0x2…34d2</tspan></text>
+    <text class="cls-6" transform="translate(135.77 80.73)"><tspan x="0" y="0">0</tspan><tspan class="cls-21" x="7.27" y="0">x</tspan><tspan class="cls-3" x="13.86" y="0">d…8ki3</tspan></text>
+    <text class="cls-7" transform="translate(20.49 59.99)"><tspan class="cls-22" x="0" y="0">ア</tspan><tspan class="cls-1" x="8.23" y="0">ド</tspan><tspan class="cls-28" x="16.76" y="0">レ</tspan><tspan class="cls-20" x="25.32" y="0">ス</tspan><tspan x="34.42" y="0">A</tspan></text>
+    <text class="cls-7" transform="translate(175.39 60.35)"><tspan class="cls-22" x="0" y="0">ア</tspan><tspan class="cls-1" x="8.23" y="0">ド</tspan><tspan class="cls-28" x="16.76" y="0">レ</tspan><tspan class="cls-20" x="25.32" y="0">ス</tspan><tspan class="cls-16" x="34.42" y="0">B (匿名)</tspan></text>
+    <g>
+      <line class="cls-25" x1="64.24" y1="96.88" x2="83.5" y2="131.61"/>
+      <polygon class="cls-31" points="78.44 132.75 86.98 137.88 87.16 127.92 78.44 132.75"/>
+    </g>
+    <text class="cls-7" transform="translate(0 117.42)"><tspan x="0" y="0">1.ER</tspan><tspan class="cls-29" x="20.47" y="0">C</tspan><tspan x="26.2" y="0">-2</tspan><tspan class="cls-30" x="35.07" y="0">0</tspan><tspan class="cls-11" x="40.43" y="0">を</tspan><tspan x="49.4" y="0">預入</tspan></text>
+    <g>
+      <line class="cls-25" x1="156.42" y1="93.95" x2="140.13" y2="130.17"/>
+      <polygon class="cls-31" points="136.18 126.79 137.18 136.71 145.27 130.88 136.18 126.79"/>
+    </g>
+    <text class="cls-7" transform="translate(154.25 115.64)"><tspan x="0" y="0">2.</tspan><tspan class="cls-24" x="8.46" y="0"> </tspan><tspan class="cls-2" x="10.02" y="0">ノ</tspan><tspan class="cls-10" x="17.93" y="0">ー</tspan><tspan class="cls-32" x="26.03" y="0">ト</tspan><tspan class="cls-11" x="34.69" y="0">を</tspan><tspan class="cls-23" x="43.66" y="0">送</tspan><tspan class="cls-12" x="52.65" y="0">る</tspan></text>
+    <g>
+      <path class="cls-25" d="m169.44,166.14c58.34-7.81,74.27-43.51,48.45-78.41"/>
+      <polygon class="cls-31" points="222.66 85.81 213.39 82.14 214.85 92.01 222.66 85.81"/>
+    </g>
+    <text class="cls-7" transform="translate(209.25 162.65)"><tspan x="0" y="0">3.ER</tspan><tspan class="cls-29" x="20.47" y="0">C</tspan><tspan x="26.2" y="0">-2</tspan><tspan class="cls-18" x="35.07" y="0">0</tspan><tspan class="cls-33" x="40.51" y="0">の</tspan><tspan x="49.65" y="0">送付</tspan></text>
+  </g>
+</svg>
