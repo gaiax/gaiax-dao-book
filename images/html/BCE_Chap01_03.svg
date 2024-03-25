@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 297.64 151.31">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 7px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #221e1f;
+        font-family: NotoSansJP-Bold-83pv-RKSJ-H, 'Noto Sans JP';
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-5 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-2 {
+        font-size: 6.42px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.03em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.12em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.46em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-14 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-15 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.5em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-18 {
+        fill: #f1f2f3;
+      }
+
+      .cls-18, .cls-19, .cls-20 {
+        stroke-width: 0px;
+      }
+
+      .cls-19 {
+        fill: #fff;
+      }
+
+      .cls-20 {
+        fill: #e7e7e8;
+      }
+
+      .cls-21 {
+        letter-spacing: 0em;
+      }
+
+      .cls-22 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <g id="Working">
+    <g>
+      <rect class="cls-20" x=".28" y=".53" width="56.07" height="20.2"/>
+      <rect class="cls-20" x="57.12" y=".53" width="94.15" height="20.2"/>
+      <rect class="cls-20" x="152.29" y=".53" width="107.16" height="20.2"/>
+      <rect class="cls-20" x="260.18" y=".53" width="37.27" height="20.2"/>
+      <rect class="cls-19" x=".28" y="21.79" width="56.07" height="20.2"/>
+      <rect class="cls-19" x="57.12" y="21.79" width="94.15" height="20.2"/>
+      <rect class="cls-19" x="152.29" y="21.79" width="107.16" height="20.2"/>
+      <rect class="cls-19" x="260.18" y="21.79" width="37.27" height="20.2"/>
+      <rect class="cls-18" x=".28" y="43.05" width="56.07" height="20.2"/>
+      <rect class="cls-18" x="57.12" y="43.05" width="94.15" height="20.2"/>
+      <rect class="cls-18" x="152.29" y="43.05" width="107.16" height="20.2"/>
+      <rect class="cls-18" x="260.18" y="43.05" width="37.27" height="20.2"/>
+      <rect class="cls-19" x=".28" y="64.31" width="56.07" height="20.2"/>
+      <rect class="cls-19" x="57.12" y="64.31" width="94.15" height="20.2"/>
+      <rect class="cls-19" x="152.29" y="64.31" width="107.16" height="20.2"/>
+      <rect class="cls-19" x="260.18" y="64.31" width="37.27" height="20.2"/>
+      <rect class="cls-18" x=".28" y="85.57" width="56.07" height="20.2"/>
+      <rect class="cls-18" x="57.12" y="85.57" width="94.15" height="20.2"/>
+      <rect class="cls-18" x="152.29" y="85.57" width="107.16" height="20.2"/>
+      <rect class="cls-18" x="260.18" y="85.57" width="37.27" height="20.2"/>
+      <rect class="cls-19" x=".28" y="106.83" width="56.07" height="20.2"/>
+      <rect class="cls-19" x="57.12" y="106.83" width="94.15" height="20.2"/>
+      <rect class="cls-19" x="152.29" y="106.83" width="107.16" height="20.2"/>
+      <rect class="cls-19" x="260.18" y="106.83" width="37.27" height="20.2"/>
+      <rect class="cls-18" x=".28" y="128.09" width="56.07" height="20.2"/>
+      <rect class="cls-18" x="57.12" y="128.09" width="94.15" height="20.2"/>
+      <rect class="cls-18" x="152.29" y="128.09" width="107.16" height="20.2"/>
+      <rect class="cls-18" x="260.18" y="128.09" width="37.27" height="20.2"/>
+    </g>
+    <g>
+      <text class="cls-1" transform="translate(21.32 13.42)"><tspan x="0" y="0">年号</tspan></text>
+      <text class="cls-2" transform="translate(94.57 13.19)"><tspan x="0" y="0">出来事</tspan></text>
+      <text class="cls-2" transform="translate(186.66 13.19)"><tspan x="0" y="0">選挙</tspan><tspan class="cls-21" x="12.83" y="0">権</tspan><tspan class="cls-22" x="19.24" y="0">の</tspan><tspan x="25.58" y="0">資格</tspan></text>
+      <text class="cls-2" transform="translate(265.98 13.19)"><tspan x="0" y="0">人口比率</tspan></text>
+      <text class="cls-2" transform="translate(17.55 30.6)"><tspan x="0" y="0">1889年</tspan><tspan class="cls-15" x="-8.38" y="7.7">（</tspan><tspan x="-2.25" y="7.7">明治22年)</tspan></text>
+      <text class="cls-2" transform="translate(69.03 34.45)"><tspan x="0" y="0">衆議院議員選挙</tspan><tspan class="cls-5" x="44.92" y="0">法</tspan><tspan class="cls-6" x="51.27" y="0">を</tspan><tspan x="57.49" y="0">公布</tspan></text>
+      <text class="cls-2" transform="translate(187.65 30.6)"><tspan x="0" y="0">満25歳以</tspan><tspan class="cls-11" x="26.81" y="0">上</tspan><tspan class="cls-16" x="33.21" y="0">、</tspan><tspan x="-26.86" y="7.7">直接国税15円以</tspan><tspan class="cls-5" x="19.2" y="7.7">上</tspan><tspan class="cls-6" x="25.55" y="7.7">を</tspan><tspan class="cls-7" x="31.77" y="7.7">納</tspan><tspan class="cls-3" x="38.2" y="7.7">め</tspan><tspan class="cls-9" x="44.37" y="7.7">る</tspan><tspan x="50.47" y="7.7">男子</tspan></text>
+      <text class="cls-2" transform="translate(270.9 34.45)"><tspan x="0" y="0">1.1%</tspan></text>
+      <text class="cls-2" transform="translate(17.55 51.86)"><tspan x="0" y="0">1900年</tspan><tspan class="cls-15" x="-8.38" y="7.7">（</tspan><tspan x="-2.25" y="7.7">明治33年)</tspan></text>
+      <text class="cls-2" transform="translate(72.11 55.71)"><tspan x="0" y="0">衆議院議員選挙法改正</tspan></text>
+      <text class="cls-2" transform="translate(187.65 51.86)"><tspan x="0" y="0">満25歳以</tspan><tspan class="cls-11" x="26.81" y="0">上</tspan><tspan class="cls-16" x="33.21" y="0">、</tspan><tspan x="-26.86" y="7.7">直接国税10円以</tspan><tspan class="cls-5" x="19.2" y="7.7">上</tspan><tspan class="cls-6" x="25.55" y="7.7">を</tspan><tspan class="cls-7" x="31.77" y="7.7">納</tspan><tspan class="cls-3" x="38.2" y="7.7">め</tspan><tspan class="cls-9" x="44.37" y="7.7">る</tspan><tspan x="50.47" y="7.7">男子</tspan></text>
+      <text class="cls-2" transform="translate(270.9 55.71)"><tspan x="0" y="0">2.2%</tspan></text>
+      <text class="cls-2" transform="translate(17.55 73.12)"><tspan x="0" y="0">1919年</tspan><tspan class="cls-15" x="-7.04" y="7.7">（</tspan><tspan x="-.9" y="7.7">大</tspan><tspan class="cls-8" x="5.51" y="7.7">正８</tspan><tspan x="16.81" y="7.7">年)</tspan></text>
+      <text class="cls-2" transform="translate(72.11 76.97)"><tspan x="0" y="0">衆議院議員選挙法改正</tspan></text>
+      <text class="cls-2" transform="translate(189.25 73.12)"><tspan x="0" y="0">満25歳以上</tspan><tspan x="-26.58" y="7.7">直接国税3円以</tspan><tspan class="cls-5" x="15.7" y="7.7">上</tspan><tspan class="cls-6" x="22.06" y="7.7">を</tspan><tspan class="cls-7" x="28.27" y="7.7">納</tspan><tspan class="cls-3" x="34.7" y="7.7">め</tspan><tspan class="cls-9" x="40.87" y="7.7">る</tspan><tspan x="46.97" y="7.7">男子</tspan></text>
+      <text class="cls-2" transform="translate(270.9 76.97)"><tspan x="0" y="0">5.5%</tspan></text>
+      <text class="cls-2" transform="translate(17.55 94.38)"><tspan x="0" y="0">1925年</tspan><tspan class="cls-15" x="-8.77" y="7.7">（</tspan><tspan x="-2.64" y="7.7">大正14</tspan><tspan class="cls-15" x="17.76" y="7.7">年</tspan><tspan class="cls-12" x="23.89" y="7.7">）</tspan></text>
+      <text class="cls-2" transform="translate(75.32 98.23)"><tspan x="0" y="0">男子普通選挙制成立</tspan></text>
+      <text class="cls-2" transform="translate(168.02 98.23)"><tspan x="0" y="0">満25歳以</tspan><tspan class="cls-21" x="26.81" y="0">上</tspan><tspan class="cls-17" x="33.22" y="0">の</tspan><tspan class="cls-14" x="39.23" y="0">す</tspan><tspan class="cls-10" x="44.91" y="0">べ</tspan><tspan class="cls-4" x="50.64" y="0">て</tspan><tspan class="cls-13" x="56.53" y="0">の</tspan><tspan x="62.86" y="0">男子</tspan></text>
+      <text class="cls-2" transform="translate(269.02 98.23)"><tspan x="0" y="0">20.0%</tspan></text>
+      <text class="cls-2" transform="translate(17.55 115.64)"><tspan x="0" y="0">1945年</tspan><tspan class="cls-15" x="-8.38" y="7.7">（</tspan><tspan x="-2.25" y="7.7">昭和20年)</tspan></text>
+      <text class="cls-2" transform="translate(78.53 119.49)"><tspan x="0" y="0">男女普通選挙成立</tspan></text>
+      <text class="cls-2" transform="translate(168.02 119.49)"><tspan x="0" y="0">満20歳以</tspan><tspan class="cls-21" x="26.81" y="0">上</tspan><tspan class="cls-17" x="33.22" y="0">の</tspan><tspan class="cls-14" x="39.23" y="0">す</tspan><tspan class="cls-10" x="44.91" y="0">べ</tspan><tspan class="cls-4" x="50.64" y="0">て</tspan><tspan class="cls-13" x="56.53" y="0">の</tspan><tspan x="62.86" y="0">国民</tspan></text>
+      <text class="cls-2" transform="translate(269.02 119.49)"><tspan x="0" y="0">48.7%</tspan></text>
+      <text class="cls-2" transform="translate(17.55 136.9)"><tspan x="0" y="0">2016年</tspan><tspan class="cls-15" x="-8.38" y="7.7">（</tspan><tspan x="-2.25" y="7.7">平成28年)</tspan></text>
+      <text class="cls-2" transform="translate(81.74 140.75)"><tspan x="0" y="0">公職選挙法改正</tspan></text>
+      <text class="cls-2" transform="translate(168.02 140.75)"><tspan x="0" y="0">満18歳以</tspan><tspan class="cls-21" x="26.81" y="0">上</tspan><tspan class="cls-17" x="33.22" y="0">の</tspan><tspan class="cls-14" x="39.23" y="0">す</tspan><tspan class="cls-10" x="44.91" y="0">べ</tspan><tspan class="cls-4" x="50.64" y="0">て</tspan><tspan class="cls-13" x="56.53" y="0">の</tspan><tspan x="62.86" y="0">国民</tspan></text>
+      <text class="cls-2" transform="translate(269.02 140.75)"><tspan x="0" y="0">83.3%</tspan></text>
+    </g>
+  </g>
+</svg>
