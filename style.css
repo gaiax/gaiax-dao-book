@@ -81,7 +81,8 @@ h3 {
 h4,
 h5,
 h6 {
-  margin: 0.5em 0 1em 1em;
+  font-size: 1.25em;
+  margin: 0.5em 0 1em;
   padding: 0;
   text-align: left;
   font-weight: bold;
@@ -261,6 +262,7 @@ div.footnote p.footnote {
   text-indent: 0;
 }
 /* Colophon */
+
 div.colophon {
   margin: 3em auto;
 }
@@ -268,7 +270,14 @@ div.colophon p {
   text-indent: 0;
 }
 div.colophon p.title {
-  font-size: 1.5em;
+  font-size: 1.25em;
+  line-height: 1.5;
+  font-weight: bold;
+  color: var(--primary-color);
+  margin-bottom: 2em;
+}
+div.pubhistory p {
+  font-size: 0.8em;
 }
 div.colophon table {
   margin: 1em 0 2em;
@@ -276,12 +285,14 @@ div.colophon table {
 }
 div.colophon table tr th {
   background-color: #fff;
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight: normal;
   border: none;
+  text-align: left;
+  width: 6em;
 }
 div.colophon table tr td {
-  font-size: 1.2em;
+  font-size: 1em;
   font-weight: normal;
   border: none;
 }
