@@ -262,29 +262,41 @@ div.footnote p.footnote {
   text-indent: 0;
 }
 /* Colophon */
-div.colophon {
+#colophon {
   margin: 3em auto;
 }
-div.colophon p {
+#colophon .information {
+  margin-top: 8em;
+}
+
+#colophon p {
   text-indent: 0;
 }
-div.colophon p.title {
-  font-size: 1.5em;
+#colophon p.title {
+  font-size: 2em;
+  font-weight: bold;
+  margin-bottom: 1em;
 }
-div.colophon table {
+
+#colophon table {
   margin: 1em 0 2em;
   border: none;
 }
-div.colophon table tr th {
-  background-color: #fff;
-  font-size: 1.2em;
+#colophon th {
   font-weight: normal;
   border: none;
+  text-align: left;
 }
-div.colophon table tr td {
-  font-size: 1.2em;
+#colophon td {
   font-weight: normal;
   border: none;
+  text-align: left;
+}
+
+#colophon .attention {
+  margin: 1em 0;
+  font-weight: 0.8em;
+  line-height: 1.7;
 }
 
 /* Inline */
