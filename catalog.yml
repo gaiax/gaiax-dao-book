@@ -3,6 +3,7 @@ PREDEF:
 CHAPS:
   - chapters/chapter1.re
   - chapters/chapter2.re
+  - chapters/chapter3.re
 
 APPENDIX:
 
