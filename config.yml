@@ -24,15 +24,12 @@ language: ja
 # 読みを入れる例 booktitle: {name: "Re:VIEW EPUBサンプル", file-as: "リビューイーパブサンプル"}
 # booktitle: Re:VIEWサンプル書籍
 booktitle:
-  {
-    name: "Blockchain Society for Election - ネット投票をブロックチェーン技術で実現させよう",
-    file-as: "",
-  }
+  { name: "ブロックチェーン技術でネット投票を実現させよう", file-as: "" }
 
 # 著者名。「, 」で区切って複数指定できる
 # 読みを入れる例 aut: [{name: "青木峰郎", file-as: "アオキミネロウ"}, {name: "武藤健志", file-as: "ムトウケンシ"}, {name: "高橋征義", file-as: "タカハシマサヨシ"}, {name: "角征典", file-as: "カドマサノリ"}]
 # aut: ["青木峰郎", "武藤健志", "高橋征義", "角征典"]
-# aut: ["takayasu", "Watanabe", "yama", "uwai"]
+aut: ["takayasu", "Watanabe", "yama", "uwai"]
 
 # 以下はオプション
 # 以下はオプション(autと同じように配列書式で複数指定可能)。
@@ -150,9 +147,14 @@ titlepage: false
 
 # 奥付を作成するか。デフォルトでは作成されない。trueを指定するとデフォルトの奥付、ファイル名を指定するとそれがcolophon.htmlとしてコピーされる
 # デフォルトの奥付における各項目の名前（「著　者」など）を変えたいときにはlocale.ymlで文字列を設定する（詳細はdoc/format.ja.mdを参照）
-# colophon: null
+colophon: true
 # デフォルトの奥付における、各項目の記載順序
 # colophon_order: ["aut", "csl", "trl", "dsr", "ill", "cov", "edt", "pbl", "contact", "prt"]
+
+#aut: ["takayasu", "Watanabe", "yama", "uwai"]
+
+# a-pbl, pbl: 出版社（発行所）
+pbl: ["Blockchain Biz Community"]
 
 # 裏表紙データファイル (PDFMaker向けにはLaTeXソース断片、EPUBMaker向けにはHTMLファイル)
 # backcover: null
